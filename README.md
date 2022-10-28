@@ -3,4 +3,6 @@ my first github commit
 
 change from macbook
 
-$a$
+$$p V_{work} = (p_{high} - p_{atm})(V_{atm}-V_0)$$
+
+
